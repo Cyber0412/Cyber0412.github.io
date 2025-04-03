@@ -3,11 +3,11 @@
   <title>安知鱼`Blog</title>
   
   <subtitle>生活明朗,万物可爱。</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://cyber0412.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://cyber0412.github.io/"/>
   <updated>2025-04-02T19:38:46.286Z</updated>
-  <id>http://example.com/</id>
+  <id>https://cyber0412.github.io/</id>
   
   <author>
     <name>安知鱼</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hexo学习</title>
-    <link href="http://example.com/posts/de01079a.html"/>
-    <id>http://example.com/posts/de01079a.html</id>
+    <link href="https://cyber0412.github.io/posts/de01079a.html"/>
+    <id>https://cyber0412.github.io/posts/de01079a.html</id>
     <published>2025-03-27T16:32:21.000Z</published>
     <updated>2025-04-02T19:38:46.286Z</updated>
     
@@ -33,12 +33,12 @@
     
     
     
-    <category term="分类1" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB1/"/>
+    <category term="分类1" scheme="https://cyber0412.github.io/categories/%E5%88%86%E7%B1%BB1/"/>
     
     
-    <category term="标签1" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    <category term="标签1" scheme="https://cyber0412.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
     
-    <category term="标签2" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE2/"/>
+    <category term="标签2" scheme="https://cyber0412.github.io/tags/%E6%A0%87%E7%AD%BE2/"/>
     
   </entry>
   
