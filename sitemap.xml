@@ -2,27 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://cyber0412.github.io/posts/de01079a.html</loc>
-    
-    <lastmod>2025-04-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://cyber0412.github.io/manifest.json</loc>
     
-    <lastmod>2025-04-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cyber0412.github.io/bangumis/index.html</loc>
-    
-    <lastmod>2025-04-01</lastmod>
+    <lastmod>2025-04-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +13,25 @@
   <url>
     <loc>https://cyber0412.github.io/tags/index.html</loc>
     
-    <lastmod>2025-03-27</lastmod>
+    <lastmod>2025-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cyber0412.github.io/posts/8ac1821a.html</loc>
+    
+    <lastmod>2025-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cyber0412.github.io/bangumis/index.html</loc>
+    
+    <lastmod>2025-04-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,33 +40,12 @@
 
   <url>
     <loc>https://cyber0412.github.io/</loc>
-    <lastmod>2025-04-03</lastmod>
+    <lastmod>2025-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
-  <url>
-    <loc>https://cyber0412.github.io/tags/%E6%A0%87%E7%AD%BE1/</loc>
-    <lastmod>2025-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cyber0412.github.io/tags/%E6%A0%87%E7%AD%BE2/</loc>
-    <lastmod>2025-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://cyber0412.github.io/categories/%E5%88%86%E7%B1%BB1/</loc>
-    <lastmod>2025-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
